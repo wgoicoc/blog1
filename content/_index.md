@@ -1,2 +1,4 @@
-## Front Page Content
-`beautifulhugo` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here.
+## ¡Hola, bienvenid@! :)
+
+Lo primero es darles las gracias por visitar mi blog. En este espacio compartire contenido acerca de ciberseguridad, resolucion de maquinas de HTB y mis notas de estudio para el examen de certificacion CEHv11. 
+
